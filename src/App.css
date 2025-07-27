@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #e0aefc, #cfdef3);
+}
+
+.container{
+  text-align: center;
+  padding: 2rem;
+}
+
+h1{
+  margin-bottom: 0;
+
+}
+
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 2rem;
+}
