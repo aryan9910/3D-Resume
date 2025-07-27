@@ -23,7 +23,7 @@ const App = () => {
           backText="Chat-App: Firebase auth + chat | Vid-Tube: Youtube API | Text-Utils: Text analysis tools"
           link="https://github.com/aryan9910"
         />
-        <Card title="Contact" frontText="Reach out to me" backText="Email: aryanj9910@gmail.com | Phone: 9600620485" link="mailto:aryanj9910@gmail.com" />
+        <Card title="Contact" frontText="Reach out to me" backText="Email: aryanj9910@gmail.com | Phone: 9600620485" link="mailto:aryanj9910@gmail.com" linkText="Mail Me"/>
       </div>
     </div>
   );
